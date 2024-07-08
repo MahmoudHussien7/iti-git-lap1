@@ -13,3 +13,5 @@ class HelloIti {
   const greeter = new HelloIti();
   greeter.printHelloITI();
   
+  greeter.printHelloGit();
+
