@@ -1,9 +1,10 @@
 class HelloIti {
-    printHelloWorld() {
+    printHelloITI() {
       console.log("Hello, ITI !");
     }
   }
   
+  
   const greeter = new HelloIti();
-  greeter.printHelloWorld();
+  greeter.printHelloITI();
   
